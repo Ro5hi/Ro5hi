@@ -1,8 +1,17 @@
-Hello! My name is Shirlen (she/her). I'm a developer-in-the-making currently attending Flatiron School's Software Engineering track 
-which emphasizes full-stack development utilizing Ruby, Ruby on Rails, JavaScript, HTML/CSS, React/Redux. When I'm not coding, I'm
-usually adjusting to higher elevations by hiking, competitive gaming, making Blender3D models, or doing photography on the side.
+Hello! My name is Shirlen (she/her). I'm a full stack developer currently attending Flatiron School's Software Engineering track 
+which utilizes Ruby, Ruby on Rails, JavaScript, HTML/CSS, React/Redux. When I'm not coding, I'm usually adjusting 
+to higher elevations by hiking, competitive gaming, making Blender3D models, or doing photography on the side.
 
 _Fun fact:_ I was interrogated in a separate room when travelling due to TSA suspecting my laptop was a terrorist weapon.
+
+
+## Current Tech-Stack:
+
+* Back-end: Ruby, Ruby on Rails, Java, Sinatra
+* Front-end: HTML5, CSS3, TailwindCSS, JavaScript, React.js (w/ Redux)
+* Database: SQL, SQLite, PostgreSQL
+* OS: Windows 10, Linux
+* Design: Figma, Blender3D, Adobe Creative
 
 ## Learning:
 
