@@ -1,6 +1,6 @@
 Hello! My name is Shirlen (she/her). I'm a full stack developer currently attending Flatiron School's Software Engineering track 
-which utilizes Ruby, Ruby on Rails, JavaScript, HTML/CSS, React/Redux. When I'm not coding, I'm usually adjusting 
-to higher elevations by hiking, competitive gaming, making Blender3D models, or doing photography on the side.
+which utilizes Ruby, Ruby on Rails, JavaScript, HTML/CSS, React/Redux. When I'm not coding, I'm usually exploring the outdoors, 
+competitive/casual gaming, making Blender3D models, or doing photography work on the side.
 
 _Fun fact:_ I was interrogated in a separate room when travelling due to TSA suspecting my laptop to be a terrorist weapon.
 
@@ -23,6 +23,7 @@ _Fun fact:_ I was interrogated in a separate room when travelling due to TSA sus
 ## Working on:
 
 * My portfolio website
+* Commissioned Restaurant SPA
 * Module 5 React/Redux project
 * Other personal projects
 
