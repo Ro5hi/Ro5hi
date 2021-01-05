@@ -1,16 +1,23 @@
-### Hi there 👋
+Hello! My name is Shirlen (she/her). I'm a developer-in-the-making currently attending Flatiron School's Software Engineering track 
+which emphasizes full-stack development utilizing Ruby, Ruby on Rails, JavaScript, HTML/CSS, React/Redux. When I'm not coding, I'm
+usually adjusting to higher elevations by hiking, competitive gaming, making Blender3D models, or doing photography on the side.
 
-<!--
-**Ro5hi/Ro5hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Fun fact:_ I was interrogated in a separate room when travelling due to TSA suspecting my laptop was a terrorist weapon.
 
-Here are some ideas to get you started:
+## Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* DS&A with Ruby & Java
+* [Java programming](https://www.github.com/Ro5hi/studying_java)
+* Computer Science fundamentals (Harvard & MIT resources)
+* AWS
+
+## Working on:
+
+* My portfolio website
+* Module 5 React/Redux project
+* Other personal projects
+
+## Goals:
+
+* I'm aiming to make at least more than 5 commits a day to get myself coding on the daily.
+* Hoping to meet other fellow developers!
