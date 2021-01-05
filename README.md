@@ -2,7 +2,7 @@ Hello! My name is Shirlen (she/her). I'm a full stack developer currently attend
 which utilizes Ruby, Ruby on Rails, JavaScript, HTML/CSS, React/Redux. When I'm not coding, I'm usually adjusting 
 to higher elevations by hiking, competitive gaming, making Blender3D models, or doing photography on the side.
 
-_Fun fact:_ I was interrogated in a separate room when travelling due to TSA suspecting my laptop was a terrorist weapon.
+_Fun fact:_ I was interrogated in a separate room when travelling due to TSA suspecting my laptop to be a terrorist weapon.
 
 
 ## Current Tech-Stack:
