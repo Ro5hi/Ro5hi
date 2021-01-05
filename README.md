@@ -22,4 +22,4 @@ _Fun fact:_ I was interrogated in a separate room when travelling due to TSA sus
 * I'm aiming to make at least more than 5 commits a day to get myself coding on the daily.
 * Hoping to meet other fellow developers!
 
-## [Find me on other links](https://linktr.ee/slend) ##
+## [Find me on other parts of the internet](https://linktr.ee/slend) ##
