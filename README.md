@@ -21,3 +21,11 @@ _Fun fact:_ I was interrogated in a separate room when travelling due to TSA sus
 
 * I'm aiming to make at least more than 5 commits a day to get myself coding on the daily.
 * Hoping to meet other fellow developers!
+
+## Other Links:
+
+* [LinkedIn](https://www.linkedin.com/in/shirlend)
+* [Medium](https://www.lendeta.medium.com)
+* [Twitter](https://www.twitter.com/len_deta)
+* [Instagram](https://www.instagram.com/_sceptral_)
+* [YouTube](https://www.youtube.com/channel/UC_0nik4oj1T1Q160XVr0ZlA)
