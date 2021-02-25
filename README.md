@@ -24,13 +24,10 @@ _Fun fact:_ I was interrogated in a separate room when travelling due to TSA sus
 ## 🧾 Working on:
 
 * My portfolio website
-* Commissioned Restaurant SPA
-* Module 5 React/Redux project
 * Other personal projects
 
 ## 📌 Goals:
 
-* Finish what I'm working on!
 * Hoping to meet other fellow developers!
 
 ## [Follow me 📲 ](https://linktr.ee/slend) ##
