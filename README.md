@@ -1,9 +1,8 @@
-Hello! My name is Shirlen (she/her). I'm a full stack developer currently attending Flatiron School's Software Engineering track 
-which utilizes Ruby, Ruby on Rails, JavaScript, HTML/CSS, React/Redux. A coffee-holic who enjoys front-end development. When I'm not coding, 
-I'm usually exploring the outdoors, competitively/casually gaming, making Blender3D models, or doing photography work on the side.
+Hello! My name is Shirlen (she/her). I'm a full stack developer who graduated from Flatiron School's Software Engineering track. 
+A coffee-holic who enjoys front-end development and back-end development. When I'm not coding, I'm usually exploring the outdoors, 
+competitively/casually gaming, making Blender3D models, or doing photography on the side.
 
-_Fun fact:_ I was interrogated in a separate room when travelling due to TSA suspecting my laptop to be a terrorist weapon.
-
+_Fun fact:_ Almost sat on a sea urchin thinking it was a spiny rock during an underwater diving trip. (that would've hurt!)
 
 ## ⌨️ Current Tech-Stack:
 
@@ -17,7 +16,6 @@ _Fun fact:_ I was interrogated in a separate room when travelling due to TSA sus
 
 * DS&A with Java
 * [Java programming](https://www.github.com/Ro5hi/studying_java)
-* Computer Science fundamentals (Harvard & MIT resources)
 * AWS
 * Unit Testing with Cypress, Mocha, Chai
 
@@ -25,6 +23,7 @@ _Fun fact:_ I was interrogated in a separate room when travelling due to TSA sus
 
 * My portfolio website
 * Other personal projects
+* A React Native app
 
 ## 📌 Goals:
 
