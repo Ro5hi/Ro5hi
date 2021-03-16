@@ -6,7 +6,7 @@ _Fun fact:_ Almost sat on a sea urchin thinking it was a spiny rock during an un
 
 ## ⌨️ Current Tech-Stack:
 
-* Back-end: Ruby, Ruby on Rails, Java, Sinatra
+* Back-end: Ruby, Ruby on Rails, Java
 * Front-end: HTML5, CSS3, TailwindCSS, JavaScript, React.js (w/ Redux)
 * Database: SQL, SQLite, PostgreSQL
 * OS: Windows 10, Linux
@@ -14,10 +14,10 @@ _Fun fact:_ Almost sat on a sea urchin thinking it was a spiny rock during an un
 
 ## 📚 Learning:
 
-* DS&A with Java
-* [Java programming](https://www.github.com/Ro5hi/studying_java)
+* Data Structures and Algorithms: Java
 * AWS
-* Unit Testing with Cypress, Mocha, Chai
+* React Native
+* Flutter
 
 ## 🧾 Working on:
 
