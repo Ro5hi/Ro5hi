@@ -14,14 +14,11 @@ _Fun fact:_ Almost sat on a sea urchin thinking it was a spiny rock during an un
 
 ## 📚 Learning:
 
-* Data Structures and Algorithms: Java
+* Data Structures and Algorithms
 * AWS
-* React Native
-* Flutter
 
 ## 🧾 Working on:
 
-* My portfolio website
 * Black Myths Podcast page
 * Mills Electric Service page
 * Picturesque: A React Native app
