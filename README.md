@@ -20,7 +20,6 @@ _Fun fact:_ Almost sat on a sea urchin thinking it was a spiny rock during an un
 ## 🧾 Working on:
 
 * Black Myths Podcast page
-* Mills Electric Service page
 * Picturesque: A React Native app
 
 ## 📌 Goals:
