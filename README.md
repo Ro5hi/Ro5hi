@@ -1,8 +1,7 @@
-Hello! My name is Shirlen (she/her). I'm a full stack developer who graduated from Flatiron School's Software Engineering track. 
+![Banner](https://imgur.com/E7iiPKU.jpg)
+
 A coffee-holic who enjoys front-end development and back-end development. When I'm not coding, I'm usually exploring the outdoors, 
 competitively/casually gaming, making Blender3D models, or doing photography on the side.
-
-_Fun fact:_ Almost sat on a sea urchin thinking it was a spiny rock during an underwater diving trip. (that would've hurt!)
 
 ## ⌨️ Current Tech-Stack:
 
