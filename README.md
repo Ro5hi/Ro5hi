@@ -19,11 +19,12 @@ competitively/casually gaming, making Blender3D models, or doing photography on 
 ## 🧾 Working on:
 
 * Black Myths Podcast page
-* Picturesque: A React Native app
+* Discord Bot for a VTuber
+* Hackathon for monday.com
 
 ## 📌 Goals:
 
 * Hoping to meet other fellow developers!
 
-## [Portfolio](https:///shirlen-d.netlify.app) ##
+## [Portfolio](https://lendeta.live) ##
 ## [Follow me 📲 ](https://linktr.ee/slend) ##
