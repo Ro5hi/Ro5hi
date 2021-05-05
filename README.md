@@ -5,22 +5,21 @@ competitively/casually gaming, making Blender3D models, or doing photography on 
 
 ## ⌨️ Current Tech-Stack:
 
-* Back-end: Ruby, Ruby on Rails, Java
-* Front-end: HTML5, CSS3, TailwindCSS, JavaScript, React.js (w/ Redux)
+* Back-end: Ruby, Ruby on Rails, Java, Python, Flask
+* Front-end: HTML5, CSS3, TailwindCSS, JavaScript, React.js
 * Database: SQL, SQLite, PostgreSQL
 * OS: Windows 10, Linux
-* Design: Figma, Blender3D, Adobe Creative
+* Design: Figma, Blender3D, Adobe XD, Adobe Creative
 
 ## 📚 Learning:
 
 * Data Structures and Algorithms
-* AWS
+* Python
+* Programming with Java
 
 ## 🧾 Working on:
 
 * Black Myths Podcast page
-* Discord Bot for a VTuber
-* Hackathon for monday.com
 
 ## 📌 Goals:
 
