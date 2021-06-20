@@ -15,11 +15,12 @@ competitively/casually gaming, making Blender3D models, or doing photography on 
 
 * Data Structures and Algorithms
 * Python
-* Programming with Java
+* Programming with C#
 
 ## 🧾 Working on:
 
 * Black Myths Podcast page
+* Thumbelina Project
 
 ## 📌 Goals:
 
