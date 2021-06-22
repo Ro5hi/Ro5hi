@@ -15,6 +15,7 @@ competitively/casually gaming, making Blender3D models, or doing photography on 
 
 * Data Structures and Algorithms
 * Python
+* Unity Engine
 * Programming with C#
 
 ## 🧾 Working on:
